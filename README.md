@@ -11,8 +11,8 @@ A **BS Computer Science** student at **The University of Texas Rio Grande Valley
 ## 🚀 What I’m Working On
 - 📈 **Market Trend Forecasting Backtester**  
   Developing a Python-based backtesting framework to evaluate intraday reversal strategies on stocks like AAPL, MSFT, or indexes like the Nasdaq, as well as Forex data.
-- 🦴 **Reinforcement Learning MuscleSkeletol Model with Mujoco**
-  Modeling the various muscles, joints, and bone mesh positions of the left hand of an anatomically human skeleton Mujoco model to train using PPO for the Machine Intelligence UTRGV research lab. 
+- 🦴 **Reinforcement Learning Musculoskeletal Model with Mujoco**
+  Modeling the various muscles, joints, and bone mesh positions of the left hand of an anatomically correct human skeleton model using Mujoco to train using PPO for the Machine Intelligence UTRGV research lab. 
 - 🔧 **Project Portfolio Website**  
   Crafting a personal portfolio site (in progress) to showcase projects, trading journals, and metrics visualizations using React and Chart.js.
 
